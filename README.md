@@ -2,7 +2,7 @@
 Create a React app that changes the display upon clicking on different buttons.
 
 
-![image](https://user-images.githubusercontent.com/90945854/194753561-8e46855d-5567-4171-8911-7f593eb9aa33.png)
+![image](https://user-images.githubusercontent.com/90945854/194754569-bf53dd1b-731a-44fd-950e-5fbfd4eb6533.png)
 
 
 

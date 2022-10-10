@@ -1,6 +1,6 @@
 export const images = {
-  0: [],
-  1: [
+  empty: [],
+  birds: [
     "https://thumbs.dreamstime.com/b/love-birds-colorful-background-61784122.jpg",
     "https://media.istockphoto.com/photos/eastern-bluebirds-male-and-female-picture-id183412466?k=20&m=183412466&s=612x612&w=0&h=xaDRkk-cq7jZglzGO-UTn8Y0tNMHqFBnI5-tIzM68c0=",
     "https://images.unsplash.com/photo-1636246441747-7d7f83f4629c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
@@ -17,7 +17,7 @@ export const images = {
     "https://birdscanada.b-cdn.net/wp-content/uploads/2019/06/birds-canada-image-2-1.jpg",
     "https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aa2134beeb29dc276a1fc30568e38fee5b5ed53c4af3570ce31d5126f%2BIMAGE_TINY%2BIMAGE_TINY.1",
   ],
-  2: [
+  beaches: [
     "https://cdn.sandals.com/beaches/v12/images/general/destinations/home/beach.jpg",
     "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/auroville-beach-kb-920506.jpg",
     "https://d.newsweek.com/en/full/1310267/best-hawaii-beaches.jpg",
@@ -34,7 +34,7 @@ export const images = {
     "https://www.thepalmbeaches.com/sites/default/files/styles/promo_xs/public/beach%20moon%20rise.jpg?itok=pz1jbsJL&timestamp=1659643981",
     "https://www.doorcounty.com/getmedia/4ec18a1c-6db4-47b8-8e70-6b465eb8e569/lnt-beach-basics.jpg",
   ],
-  3: [
+  mountains: [
     "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
     "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb",
     "https://i.insider.com/5a258ab23339b025218b45c0?width=1000&format=jpeg&auto=webp",
@@ -51,7 +51,7 @@ export const images = {
     "https://www.trafalgar.com/-/media/Images/Home/Ways-to-go/WtG-Patagonia-Tours/herotorresdelpainechileRS243323000x1400px.png",
     "https://static01.nyt.com/images/2021/08/16/travel/16travel-patagonia1/16travel-patagonia1-mobileMasterAt3x.jpg",
   ],
-  4: [
+  food: [
     "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&w=1000&q=80",
     "https://www.kuali.com/wp-content/uploads/2016/10/31734001_M-11.jpg",
     "https://imageio.forbes.com/specials-images/imageserve/6062170a2dc988b35acafcb2/assorted-of-traditional-moroccan-tajine-with-dried-fruits-and-spices/960x0.jpg?format=jpg&width=960",
